@@ -6,7 +6,7 @@
 # Descriere: Acest script curăță sistemul Fedora de fișiere temporare,
 # cache-uri, log-uri, aplicații Flatpak și alte date inutile pentru a menține sistemul curat și organizat.
 # Versiune: 3.1
-# Data ultimei actualizări: [Data ultimei actualizări]
+# Data ultimei actualizări: 29.10.2023
 
 # Culori pentru mesaje
 GREEN="\e[32m"
